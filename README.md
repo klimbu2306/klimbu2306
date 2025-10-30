@@ -23,6 +23,11 @@
 
 ---
 
+### 🔍 Seeking Opportunities
+✦ Available for any internship opportunities that will help me gain experience with software engineering!
+
+---
+
 ### 🔗 More Links!
 ✦ LinkedIn - https://www.linkedin.com/in/kumar-limbu-bb90ba340
 
