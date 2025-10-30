@@ -1,5 +1,38 @@
 ## Hi, I'm Kumar! 👋
-🖥️ I am 1st Year Computer Science student at the University of Leicester! 🖥️
+
+### 💻 About Me  
+✦ I'm a 1st Year Computer Science student at the University of Leicester!
+
+--- 
+
+### 🌱 Current Interest(s)  
+✦  Right now, I'm interested in learning how to use the Django framework for Python.
+
+---
+
+### 🔭 Current Project(s)  
+✦  Currently, I'm trying to build a flashcard application in Python using Tkinter! 
+
+---
+
+### 🧩 Programming Knowledge 
+
+✦ Languages: Python - Luau - C# - Javascript - HTML - CSS
+
+✦ Concepts: Git - TDD / Unit Testing - VC - Node.js - VSCode - DSA - OOP -  SQL
+
+---
+
+### 🔗 More Links!
+✦ LinkedIn - https://www.linkedin.com/in/kumar-limbu-bb90ba340
+
+✦ LEETCode - https://leetcode.com/u/Lungma/
+
+✦ HackerRank - https://www.hackerrank.com/profile/klimbu3103
+
+---
+
+## ⬇️ Feel free to check out some of my projects below!
 
 <!--
 **klimbu2306/klimbu2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
