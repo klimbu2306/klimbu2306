@@ -1,4 +1,4 @@
-## Hi there, my name is Kumar 👋
+## Hi, I'm Kumar! 👋
 🖥️ I am 1st Year Computer Science student at the University of Leicester! 🖥️
 
 <!--
