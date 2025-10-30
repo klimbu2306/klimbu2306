@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, my name is Kumar 👋
+🖥️ I am 1st Year Computer Science student at the University of Leicester! 🖥️
 
 <!--
 **klimbu2306/klimbu2306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
