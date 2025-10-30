@@ -1,7 +1,7 @@
 ## Hi, I'm Kumar! 👋
 
 ### 💻 About Me  
-✦ I'm a 1st Year Computer Science student at the University of Leicester, passionate about software development!
+✦ I'm a 1st Year Computer Science student (at the University of Leicester) passionate about software development!
 
 --- 
 
