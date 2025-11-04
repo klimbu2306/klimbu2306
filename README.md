@@ -33,8 +33,6 @@
 
 ✦ LEETCode - https://leetcode.com/u/Lungma/
 
-✦ HackerRank - https://www.hackerrank.com/profile/klimbu3103
-
 ---
 
 ## ⬇️ Feel free to check out some of my projects below!
