@@ -17,7 +17,7 @@
 
 ### 🧩 Programming Knowledge 
 
-✦ Languages: Python - Luau - C# - Javascript - HTML - CSS
+✦ Languages: Python - Lua - C# - Javascript - HTML - CSS
 
 ✦ Concepts: Git - TDD / Unit Testing - VC - Node.js - VSCode - DSA - OOP -  SQL
 
