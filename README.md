@@ -31,10 +31,6 @@
 ### 🔗 More Links!
 ✦ LinkedIn - https://www.linkedin.com/in/kumar-limbu-bb90ba340
 
-
-✦ Personal Website - https://klimbu3103-portfolio.vercel.app/
-
-
 ✦ LEETCode - https://leetcode.com/u/Lungma/
 
 ---
